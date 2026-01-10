@@ -1,0 +1,17 @@
+:root{
+  --shade-radius: 1.25rem;
+}
+.shade-progress{height:10px;border-radius:999px}
+.shade-progress .progress-bar{border-radius:999px}
+.shade-acc-btn{display:flex;align-items:center;gap:.5rem;padding-right:3.25rem}
+.shade-acc-btn::after{margin-left:.75rem}
+.shade-axis-badge{min-width:64px;text-align:center}
+.shade-card.is-answered{background:#f1f3f5 !important}
+@media print{
+  .shade-print-footer{display:block !important}
+  #btn-open-all,#btn-close-all,#btn-toggle-low,#btn-reset,
+  #btn-export-json,#btn-export-csv,#btn-print,label[for="input-import-json"],
+  .alert{display:none !important}
+  .accordion-collapse{display:block !important}
+}
+.shade-print-footer{display:none}
