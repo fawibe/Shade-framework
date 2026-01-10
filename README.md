@@ -1,4 +1,8 @@
 # Framework S.H.A.D.E. (Shadow AI)
+![Local only](https://img.shields.io/badge/privacy-local--only-success)
+![No tracking](https://img.shields.io/badge/tracking-none-success)
+![License MIT](https://img.shields.io/badge/code-MIT-blue)
+![Content CC--BY--4.0](https://img.shields.io/badge/content-CC--BY--4.0-blue)
 
 **S.H.A.D.E.** is a privacy-first, local-only scorecard to assess **Shadow AI** maturity:
 **S**avoir, **H**armoniser, **A**nticiper, **D**éfinir, **E**duquer.
