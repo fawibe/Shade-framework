@@ -3,6 +3,8 @@
 ![No tracking](https://img.shields.io/badge/tracking-none-success)
 ![License MIT](https://img.shields.io/badge/code-MIT-blue)
 ![Content CC--BY--4.0](https://img.shields.io/badge/content-CC--BY--4.0-blue)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18220695.svg)](https://doi.org/10.5281/zenodo.18220695)
+
 
 **S.H.A.D.E.** is a privacy-first, local-only scorecard to assess **Shadow AI** maturity:
 **S**avoir, **H**armoniser, **A**nticiper, **D**éfinir, **E**duquer.
@@ -37,3 +39,10 @@ Open `docs/index.html` in your browser.
 ## GitHub Pages
 
 If you enable GitHub Pages, point it to `/docs`.
+
+## Citation
+
+If you use the SHADE Framework in your work, please cite:
+
+Willot, F. (2026). *SHADE Framework: A Holistic Methodology for Shadow AI Governance* (Version 1.0). Zenodo.  
+https://doi.org/10.5281/zenodo.18220695
